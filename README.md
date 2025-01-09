@@ -32,9 +32,5 @@ This screenshot shows the console output after calculating the price of an optio
 - **Datetime**: Python module used to handle time and date calculations for the option expiration.
 - **Command-Line Interface (CLI)**: Simple text-based interface for interacting with the user.
 
-## Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/ryanmcle/black-scholes-option-pricing.git
+## Future of project
+- **Connect to more advanced API's and use the model to make trades with paper money**
