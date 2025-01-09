@@ -15,6 +15,7 @@ A Python application that implements the **Black-Scholes option pricing model** 
 
 ## Video
 ![Black-Scholes Option Pricing Video](https://github.com/ryanmcle/Black-Scholes-Option-Pricing/blob/main/black_Scholes-ezgif.com-video-to-gif-converter.gif?raw=true) 
+
 Watch the demonstration of the Black-Scholes model applied to real-world stock data.
 
 ## Screenshot
