@@ -18,7 +18,7 @@ A Python application that implements the **Black-Scholes option pricing model** 
 Watch the demonstration of the Black-Scholes model applied to real-world stock data.
 
 ## Screenshot
-![Black-Scholes Screenshot](URL_TO_SCREENSHOT)  
+![Black-Scholes Screenshot](https://github.com/ryanmcle/Black-Scholes-Option-Pricing/blob/main/black_scholes.png)
 This screenshot shows the console output after calculating the price of an option.
 
 ## Technologies Used
